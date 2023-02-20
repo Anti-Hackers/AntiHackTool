@@ -1,0 +1,1 @@
+print("Anti Hacking Tool")
