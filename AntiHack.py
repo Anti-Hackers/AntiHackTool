@@ -3,6 +3,5 @@ print("||    ||")
 print("||    ||")   
 print("||_   ||_")
 print("|__|  |__|")
-input
-print("Welcome to the LL Anti Hack Tool.")
-print("Enter Hackers Device Name:")
+print("Welcome To The LL Anti Hacker Tool.")
+input("Enter Hackers Device Name:")
